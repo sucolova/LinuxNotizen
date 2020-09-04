@@ -1,0 +1,18 @@
+Ubuntu Terminal commands:
+	
+-------	unzip to unzip :)
+	
+-------	install .beb:
+Using:
+
+sudo dpkg -i /path/to/deb/file
+sudo apt-get install -f
+
+Using:
+
+sudo apt install ./name.deb
+
+Or
+
+sudo apt install /path/to/package/name.deb
+
