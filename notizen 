@@ -25,3 +25,9 @@ sudo apt install /path/to/package/name.deb
 
 ------- monitor hardware:
 	htop
+
+-------- files and mounts:
+
+	pwd: shows working directory
+	free: shows disk space
+	df: shows all mounts and how much is used on each
