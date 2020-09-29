@@ -31,3 +31,10 @@ sudo apt install /path/to/package/name.deb
 	pwd: shows working directory
 	free: shows disk space
 	df: shows all mounts and how much is used on each
+
+
+-------- Download a whole homepage with wget
+	
+	something that worked for me: (after many many tries)
+	
+	wget --recursive --page-requisites --convert-links https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
