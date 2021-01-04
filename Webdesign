@@ -5,6 +5,8 @@ HTML
 
 CSS
     Cropping an image without streching it: object-fit
+    
+    making something like a div invisible in css : display: none , visibility: hidden
 
 
 JAVASCRIPT
